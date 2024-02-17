@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anhLEvn
 - 👀 I’m interested in C#, ASP.NET, Angular
-- 🌱 I’m currently doing end cours project
-- 💞️ I’m looking to job opportunities in ASP.NET, Angular
-- 📫 How to reach me : anh.lebacquelot@gmail.com
+- 💞️ I’m open for work in the fields of information technology
+- 📫 How to reach me : van.anh.le.bacquelot@gmail.com
 
 <!---
 anhLEvn/anhLEvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
